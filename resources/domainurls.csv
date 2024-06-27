@@ -1,0 +1,6 @@
+id,domain_url,domain_url_type,sublob_id
+1,http://example.com,type1,1
+2,http://example.org,type2,2
+3,http://example.net,type1,3
+4,http://example.edu,type3,4
+5,http://example.biz,type2,5

@@ -1,4 +1,6 @@
-xds_id,domain_url_id,permit_id,share_id
-1,1,permit1,share1
-2,2,permit2,share2
-3,3,permit3,share3
+id,domain_url_id,permit_id,share_id,xds_id
+1,1,123,456,789
+2,2,124,457,790
+3,3,125,458,791
+4,4,126,459,792
+5,5,127,460,793
